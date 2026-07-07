@@ -1,0 +1,12 @@
+{
+  "name": "ysy-qa-browser-check",
+  "version": "1.0.0",
+  "description": "YSY browser QA check",
+  "main": "runner.js",
+  "scripts": {
+    "test": "node runner.js"
+  },
+  "dependencies": {
+    "playwright": "^1.55.0"
+  }
+}
